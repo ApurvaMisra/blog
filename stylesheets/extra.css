@@ -1,0 +1,40 @@
+:root {
+  --md-primary-fg-color: #86c9be;
+  --md-primary-fg-color--light: #a8d9d0;
+  --md-primary-fg-color--dark: #5b8f86;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #86c9be;
+}
+
+.md-header {
+  background: linear-gradient(135deg, #86c9be 0%, #5b8f86 100%);
+}
+
+.md-tabs {
+  background: linear-gradient(135deg, #86c9be 0%, #5b8f86 100%);
+}
+
+/* Update link colors to match your brand */
+.md-content a {
+  color: #5b8f86;
+}
+
+.md-content a:hover {
+  color: #86c9be;
+}
+
+/* Style for the main headlines */
+.md-typeset h1 {
+  color: #5b8f86;
+  font-weight: bold;
+}
+
+/* Navigation sidebar styling */
+.md-nav__item .md-nav__link--active {
+  color: #5b8f86;
+  font-weight: bold;
+}
+
+.md-nav__item .md-nav__link:hover {
+  color: #86c9be;
+}
