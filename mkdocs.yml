@@ -1,12 +1,23 @@
-site_name: Blog
+site_name: Apurva's Blog
+site_url: https://blog.apurvamisra.com
 theme:
   name: material
   palette:
+    scheme: default
     primary: teal
-    accent: pink
+    accent: cyan
   font:
-    text: Roboto
+    text: Plus Jakarta Sans
     code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - social
