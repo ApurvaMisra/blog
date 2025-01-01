@@ -37,4 +37,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/ApurvaMisra"  target="_blank" rel="noopener">Apurva Misra</a>
+  &copy; 2024 <a href="https://github.com/ApurvaMisratest"  target="_blank" rel="noopener">Apurva Misra</a>
