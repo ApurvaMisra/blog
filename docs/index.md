@@ -2,7 +2,7 @@
 
 Thanks for stopping by. 🙃
 
-Hi, I’m Apurva Misra—a machine learning engineer, and founder of Sentick, where we help growing companies unlock practical, ROI‑driven AI solutions.
+Hi, I’m Apurva Misra—a machine learning engineer, and founder of Sentick, where we help growing companies unlock practical, ROI‑driven AI solutions. You can find my past speaking experiences [here](https://youtube.com/playlist?list=PLf9erCaiZCaaQWEJ0n6G7A3VnaCbhB1Ym&si=dGtjDCbWSJaekrSs)
 
 # What I Do
 
@@ -22,7 +22,7 @@ Early‑stage teams often need senior technical guidance long before they can ju
 
 # My Background
 
-I am an Electronics and Communications engineer turned Machine Learning Engineer with experience in various domains including, eye tracking, locational, physiological, text, chatbot, rate prediction, recommendation, cloud infastructure and more. I did my Masters from the University of Waterloo with research in Cognitive Driver Distraction Detection (detecting driver distraction when they are thinking of something else not the same as looking somewhere else), this was my segway to machine learning, experimental design and hypothesis testing. During and after my Masters I worked at a bunch of startups using Machine learning in various ways like fatigue detection for Radiologists, allergen detection in restaurant menus using NLP, creating chatbots in the insurance space and also worked on creating a personal assistant to book you an Uber, order food etc. I am AWS Certified Solutions Architect Associate and love helping startups setup an efficient/robust cloud infrastructure and reduce their cloud cost.
+I am an Electronics and Communications engineer turned Machine Learning Engineer with experience in various domains including, eye tracking, locational, physiological, text, chatbot, rate prediction, recommendation, cloud infrastructure and more. I did my Masters from the University of Waterloo with research in Cognitive Driver Distraction Detection (detecting driver distraction when they are thinking of something else not the same as looking somewhere else), this was my segue to machine learning, experimental design and hypothesis testing. During and after my Masters I worked at a bunch of startups using Machine learning in various ways like fatigue detection for Radiologists, allergen detection in restaurant menus using NLP, creating chatbots in the insurance space and also worked on creating a personal assistant to book you an Uber, order food etc. I am AWS Certified Solutions Architect Associate and love helping startups setup an efficient/robust cloud infrastructure and reduce their cloud cost.
 
 ---
 
