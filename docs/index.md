@@ -1,14 +1,19 @@
 # Hey there!
 
 Thanks for stopping by. 🙃
+
 Hi, I’m Apurva Misra—a machine learning engineer, and founder of Sentick, where we help growing companies unlock practical, ROI‑driven AI solutions.
 
 # What I Do
 
 I help teams go from idea → production with AI‑powered products and automations that deliver measurable results.
+
 • Automations – end‑to‑end workflow orchestration with LLM agents to eliminate repetitive tasks and cut operating costs.
+
 • Predictive Analytics – data pipelines and models that anticipate demand, pricing, and risk so you can act before the market does.
+
 • AI Marketing – GPT‑powered content, dynamic segmentation, and campaign optimisation that measurably lifts conversions.
+
 • Chatbots & Virtual Assistants – customer‑facing and internal copilots that resolve queries instantly and free up your team.
 
 # Why Consulting?
