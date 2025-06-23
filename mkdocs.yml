@@ -2,7 +2,7 @@ site_name: Apurva's Blog
 site_url: https://blog.apurvamisra.com
 
 nav:
-  - About Me: https://www.apurvamisra.com/about
+  - About Me: https://www.apurvamisra.com/speaker
   - Hire Me: https://calendly.com/sentick/30min
   - Blog: blog/
 
@@ -36,6 +36,10 @@ extra:
       link: https://www.linkedin.com/in/apurva-misra/
     - icon: fontawesome/brands/medium
       link: https://medium.com/@amisra26
+    - icon: fontawesome/solid/envelope
+      link: mailto:apurva@sentick.com
+    - icon: fontawesome/solid/podcast
+      link: https://careerdissection.com/
 
 markdown_extensions:
   - pymdownx.highlight:
