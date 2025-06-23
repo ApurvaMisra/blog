@@ -1,13 +1,19 @@
 site_name: Apurva's Blog
 site_url: https://blog.apurvamisra.com
+
+nav:
+  - About Me: https://www.apurvamisra.com/about
+  - Hire Me: https://calendly.com/sentick/30min
+  - Blog: blog/
+
 theme:
   name: material
   palette:
-    scheme: default
-    primary: teal
-    accent: cyan
+    scheme: slate
+    primary: "#5cc2db"
+    accent: blue grey
   font:
-    text: Plus Jakarta Sans
+    text: Inter
     code: Roboto Mono
   features:
     - navigation.instant
@@ -20,6 +26,7 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - blog
   - social
   - search
 
@@ -48,4 +55,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/ApurvaMisratest"  target="_blank" rel="noopener">Apurva Misra</a>
+  &copy; 2024 <a href="https://github.com/ApurvaMisra"  target="_blank" rel="noopener">Apurva Misra</a>
