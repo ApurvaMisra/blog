@@ -330,29 +330,15 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 ---
 
 <script>
+// Simple, reliable image loading
 document.addEventListener('DOMContentLoaded', function() {
-    // Apply smart positioning to all existing images
-    const allImages = document.querySelectorAll('.talk-image-container img');
-    allImages.forEach(img => {
-        if (img.complete) {
-            applySmartPositioning(img);
-        } else {
-            img.onload = function() {
-                applySmartPositioning(this);
-            };
-        }
-    });
-    
     function applySmartPositioning(img) {
         const aspectRatio = img.naturalWidth / img.naturalHeight;
         if (aspectRatio < 1) {
-            // Portrait image - focus more on center
             img.style.objectPosition = 'center 30%';
         } else if (aspectRatio > 1.5) {
-            // Wide landscape - focus on center  
             img.style.objectPosition = 'center 40%';
         } else {
-            // Square-ish or normal landscape - show more of the person
             img.style.objectPosition = 'center 35%';
         }
     }
@@ -381,18 +367,13 @@ document.addEventListener('DOMContentLoaded', function() {
         // Insert image first, then set src to avoid flash
         container.insertBefore(img, container.firstChild);
         
-        // Set src after insertion to ensure proper loading
+        // Set src and load image
         img.src = imageUrls[0];
         
         // Apply smart positioning when image loads
         img.onload = function() {
             applySmartPositioning(this);
-            this.style.opacity = '1'; // Fade in when loaded
         };
-        
-        // Set initial opacity for smooth loading
-        img.style.opacity = '0';
-        img.style.transition = 'opacity 0.3s ease';
         
         // Create indicators and auto-slide functionality
         const indicatorsContainer = container.querySelector('.image-indicators');
