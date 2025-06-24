@@ -330,8 +330,7 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 ---
 
 <script>
-// Simple, reliable image loading
-document.addEventListener('DOMContentLoaded', function() {
+function initializeSpeakingPageImages() {
     function applySmartPositioning(img) {
         const aspectRatio = img.naturalWidth / img.naturalHeight;
         if (aspectRatio < 1) {
@@ -347,6 +346,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const imageContainers = document.querySelectorAll('.talk-image-container[data-images]');
     
     imageContainers.forEach(container => {
+        // If the container has already been processed, skip it
+        if (container.dataset.initialized) {
+            return;
+        }
+        container.dataset.initialized = true;
+
         const imagesData = container.getAttribute('data-images');
         if (!imagesData) return;
         
@@ -412,7 +417,15 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         }
     });
-});
+}
+
+// Run the script on initial page load
+document.addEventListener('DOMContentLoaded', initializeSpeakingPageImages);
+
+// Re-run the script when the page is loaded via instant navigation
+if (window.document$) {
+  window.document$.subscribe(initializeSpeakingPageImages);
+}
 </script>
 
 <style>
