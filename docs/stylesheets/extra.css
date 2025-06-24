@@ -1,40 +1,106 @@
 :root {
-  --md-primary-fg-color: #86c9be;
-  --md-primary-fg-color--light: #a8d9d0;
-  --md-primary-fg-color--dark: #5b8f86;
+  --md-primary-fg-color: #dcb3f8;
+  --md-primary-fg-color--light: #e8d0fc;
+  --md-primary-fg-color--dark: #c896f4;
   --md-primary-bg-color: #ffffff;
-  --md-accent-fg-color: #86c9be;
+  --md-accent-fg-color: #2e990e;
 }
 
 .md-header {
-  background: linear-gradient(135deg, #86c9be 0%, #5b8f86 100%);
+  background: linear-gradient(135deg, #dcb3f8 0%, #c896f4 100%);
 }
 
 .md-tabs {
-  background: linear-gradient(135deg, #86c9be 0%, #5b8f86 100%);
+  background: linear-gradient(135deg, #dcb3f8 0%, #c896f4 100%);
 }
 
 /* Update link colors to match your brand */
 .md-content a {
-  color: #5b8f86;
+  color: #c896f4;
 }
 
 .md-content a:hover {
-  color: #86c9be;
+  color: #dcb3f8;
 }
 
 /* Style for the main headlines */
 .md-typeset h1 {
-  color: #5b8f86;
+  color: #c896f4;
   font-weight: bold;
 }
 
 /* Navigation sidebar styling */
 .md-nav__item .md-nav__link--active {
-  color: #5b8f86;
+  color: #c896f4;
   font-weight: bold;
 }
 
 .md-nav__item .md-nav__link:hover {
-  color: #86c9be;
+  color: #dcb3f8;
+}
+
+/* Enhanced Social Media Icons in Header */
+.md-header__option {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Make social icons more prominent */
+.md-social {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.md-social__link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.md-social__link:hover {
+  background: var(--md-primary-fg-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.md-social__link svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  fill: currentColor;
+}
+
+/* Hide search if it's still there */
+.md-search {
+  display: none !important;
+}
+
+/* Ensure social icons are visible on all screen sizes */
+@media screen and (max-width: 76.25em) {
+  .md-social {
+    display: flex;
+  }
+}
+
+/* Custom styling for better visibility */
+.md-header[data-md-state="shadow"] .md-social__link {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* Improve contrast on dark theme */
+[data-md-color-scheme="slate"] .md-social__link {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.87);
+}
+
+[data-md-color-scheme="slate"] .md-social__link:hover {
+  background: var(--md-primary-fg-color);
+  color: white;
 }

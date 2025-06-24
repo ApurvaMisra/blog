@@ -1,8 +1,8 @@
-site_name: Apurva's Blog
-site_url: https://blog.apurvamisra.com
+site_name: Apurva Misra
+site_url: https://apurvamisra.com
 
 nav:
-  - About Me: https://www.apurvamisra.com/speaker
+  - Speaking: speaking/
   - Hire Me: https://calendly.com/sentick/30min
   - Blog: blog/
 
@@ -10,8 +10,8 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: "#5cc2db"
-    accent: blue grey
+    primary: "#dcb3f8"
+    accent: "#2e990e"
   font:
     text: Inter
     code: Roboto Mono
@@ -21,6 +21,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - header.autohide
 
 extra_css:
   - stylesheets/extra.css
@@ -28,18 +29,21 @@ extra_css:
 plugins:
   - blog
   - social
-  - search
 
 extra:
   social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/apurva-misra/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/@amisra26
     - icon: fontawesome/solid/envelope
       link: mailto:apurva@sentick.com
+      name: Email
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/apurvamisra/
+      name: LinkedIn
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@apurvamisra
+      name: Medium
     - icon: fontawesome/solid/podcast
       link: https://careerdissection.com/
+      name: Podcast
 
 markdown_extensions:
   - pymdownx.highlight:

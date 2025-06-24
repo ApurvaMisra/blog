@@ -2,7 +2,7 @@
 
 Thanks for stopping by. 🙃
 
-Hi, I’m Apurva Misra—a machine learning engineer, and founder of Sentick, where we help growing companies unlock practical, ROI‑driven AI solutions. You can find my past speaking experiences [here](https://youtube.com/playlist?list=PLf9erCaiZCaaQWEJ0n6G7A3VnaCbhB1Ym&si=dGtjDCbWSJaekrSs)
+Hi, I’m Apurva Misra—a machine learning engineer, speaker and founder of Sentick, where we help growing companies unlock practical, ROI‑driven AI solutions. You can find my recorded speaking experiences [here](https://youtube.com/playlist?list=PLf9erCaiZCaaQWEJ0n6G7A3VnaCbhB1Ym&si=dGtjDCbWSJaekrSs)
 
 # What I Do
 
