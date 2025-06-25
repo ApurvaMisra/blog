@@ -18,7 +18,7 @@ title: "SEO in the age of AI" # Explicit title override
 <!-- Optional: Add an excerpt separator if you want a custom teaser on index pages -->
 <!-- more -->
 
-Recently, I was on a call with a business and they were worried about how do they get in front of people when search habits are changing so quickly. Basically, more people are doing their searches on AI products like ChatGPT and Perplexity instead of doing a typical Google search. They were concerned about not showing up on the ChatGPT answer when a potential customer asks a question about their industry; also known as GAIO (Generative AI Optimization).
+Recently, I was on a call with a business and they were worried about how do they get in front of people when search habits are changing so quickly. Basically, more people are doing their searches on AI products like ChatGPT and Perplexity instead of doing a typical Google search. They were concerned about not showing up on the ChatGPT answer when a potential customer asks a question about their industry; also known as GEO (Generative Engine Optimization).
 In this blog, I will try to cover everything that I explained to them and any business should know at this time when people's search behavior is changing so drastically.
 
 ## How does search on AI products (ChatGPT...) work?
