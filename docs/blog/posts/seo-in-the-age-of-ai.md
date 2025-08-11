@@ -1,5 +1,5 @@
 ---
-date: 2025-06-23 # Current date
+date: 2025-08-10 # Current date
 title: "SEO in the age of AI" # Explicit title override
 # description: "How artificial intelligence is revolutionizing search engine optimization and what it means for businesses." # Optional: Add a description
 # categories: # Optional: Add categories
@@ -16,10 +16,11 @@ title: "SEO in the age of AI" # Explicit title override
 # SEO in the age of AI
 
 <!-- Optional: Add an excerpt separator if you want a custom teaser on index pages -->
-<!-- more -->
 
 Recently, I was on a call with a business and they were worried about how do they get in front of people when search habits are changing so quickly. Basically, more people are doing their searches on AI products like ChatGPT and Perplexity instead of doing a typical Google search. They were concerned about not showing up on the ChatGPT answer when a potential customer asks a question about their industry; also known as GEO (Generative Engine Optimization).
 In this blog, I will try to cover everything that I explained to them and any business should know at this time when people's search behavior is changing so drastically.
+
+<!-- more -->
 
 ## How does search on AI products (ChatGPT...) work?
 
@@ -68,4 +69,4 @@ Here are the list of things, in no particular order, that will help in making su
 
     **Thanks for sticking with me until the end!** I'm passionate about helping businesses thrive amid change—if you'd like more hands-on tactics and real-world case studies, [sign up here](https://www.sentick.com/signup).
 
-    **Need personalized guidance?** If you'd like to discuss how I can help your team, grab a slot on my [calendar](https://calendly.com/sentick/30min).
+    **Need personalized guidance?** If you'd like to discuss how I can help your team, grab a slot on my [calendar](https://calendly.com/apurva-sentick/60min).
