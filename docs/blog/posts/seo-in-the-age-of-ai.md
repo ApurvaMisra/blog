@@ -1,5 +1,5 @@
 ---
-date: 2025-08-10 # Current date
+date: 2025-06-25
 title: "SEO in the age of AI" # Explicit title override
 # description: "How artificial intelligence is revolutionizing search engine optimization and what it means for businesses." # Optional: Add a description
 # categories: # Optional: Add categories
