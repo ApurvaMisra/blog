@@ -1,5 +1,4 @@
 ---
-date: 2025-01-29
 title: "AI-Powered Workflows: Transforming How We Work"
 categories:
   - AI
