@@ -11,7 +11,7 @@ Topics I speak about:
 - AI/UX Integration
 - MLOps and Data Engineering
 
-If you're organizing an event and looking for a speaker, feel free to [reach out](<(mailto:apurva@sentick.com)>)!
+If you're organizing an event and looking for a speaker, feel free to [reach out](mailto:apurva@sentick.com)!
 
 <style>
 .speaking-grid {
