@@ -1,6 +1,6 @@
 # Podcasts
 
-Welcome to my podcast collection! I started this podcast to provide a segue for business owners to learn about AI. The podcast brings together other business owners and professionals who are utilizing AI or planning to, with discussions focused on different domains. Here you'll find shows where we share insights on AI, entrepreneurship, and practical technology solutions for business owners.
+Welcome to my podcast collection! I started this show to provide a segue for business owners to learn about AI. We bring together entrepreneurs and professionals who are using AI or planning to sharing real-world stories across different domains. Here you’ll find conversations packed with insights on AI, entrepreneurship, and practical tech solutions for growing your business.
 
 <style>
 .podcast-grid {
