@@ -10,6 +10,8 @@ nav:
 theme:
   name: material
   custom_dir: overrides
+  logo: assets/sentick_outline_logo.svg
+  favicon: assets/favicon.svg
   palette:
     scheme: slate
     primary: "#dcb3f8"
@@ -30,7 +32,10 @@ extra_css:
 
 plugins:
   - blog
-  - social
+  - social:
+      cards_layout_options:
+        background_color: "#dcb3f8"
+        color: "#ffffff"
 
 extra:
   social:

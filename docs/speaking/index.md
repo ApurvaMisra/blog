@@ -93,6 +93,31 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 </style>
 
 <div class="speaking-grid">
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/sydney1.jpg,images/sydney2.jpg,images/sydney3.jpg, ,images/sydney4.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">How Generative Tools Are Re-Architecting the Software Engineer’s Role</div>
+    <div class="talk-event">Web Directions Engineering AI</div>
+        <a href="https://webdirections.org/eng-ai/schedule.php" class="talk-link" target="_blank">Event Details</a>
+    <div style="font-size: 0.75rem; color: var(--md-default-fg-color--light); margin-bottom: 0.5rem;">
+    </div>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/syd_cursor1.jpg,images/syd_cursor2.jpg,images/syd_cursor3.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">AI Coding Tools: Helpful Partner or Hype?</div>
+    <div class="talk-event">Cursor Meetup - Atlassian HQ Sydney</div>
+        <a href="https://luma.com/j4tnkg9z" class="talk-link" target="_blank">Event Details</a>
+    <div style="font-size: 0.75rem; color: var(--md-default-fg-color--light); margin-bottom: 0.5rem;">
+    </div>
+  </div>
+</div>
 
 <div class="talk-card">
   <div class="talk-image-container" data-images="images/render_2025_1.jpg,images/render_2025_2.jpg,images/render_2025_3.JPG,images/render_2025_4.jpg">
