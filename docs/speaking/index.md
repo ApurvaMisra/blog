@@ -111,7 +111,7 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
   </div>
   <div class="talk-content">
     <div class="talk-title">How Generative Tools Are Re-Architecting the Software Engineer’s Role</div>
-    <div class="talk-event">Web Directions Engineering AI</div>
+    <div class="talk-event">Web Directions Engineering AI - Sydney</div>
         <a href="https://webdirections.org/eng-ai/schedule.php" class="talk-link" target="_blank">Event Details</a>
     <div style="font-size: 0.75rem; color: var(--md-default-fg-color--light); margin-bottom: 0.5rem;">
     </div>
