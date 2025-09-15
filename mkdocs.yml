@@ -10,11 +10,12 @@ nav:
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/sentick_outline_logo.svg
+  logo: assets/sentick_cream_logo.svg
   favicon: assets/favicon.svg
   palette:
     scheme: slate
-    primary: "#dcb3f8"
+    primary: "#da8383"
+    # primary: "#dcb3f8"
     accent: "#2e990e"
   font:
     text: Inter
@@ -34,8 +35,8 @@ plugins:
   - blog
   - social:
       cards_layout_options:
-        background_color: "#dcb3f8"
-        color: "#ffffff"
+        background_color: "#000000"
+        color: "#ebcfa6"
 
 extra:
   social:
@@ -49,7 +50,7 @@ extra:
       link: https://medium.com/@amisra26
       name: Medium
     - icon: fontawesome/solid/podcast
-      link: https://careerdissection.com/
+      link: https://podcasts.apple.com/us/podcast/the-practical-prompt/id1830322880
       name: Podcast
 
 markdown_extensions:
@@ -66,8 +67,9 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
+  &copy; 2024 <a href="https://github.com/ApurvaMisra"  target="_blank" rel="noopener">Apurva Misra</a>
   &copy; 2024 <a href="https://github.com/ApurvaMisra"  target="_blank" rel="noopener">Apurva Misra</a>

@@ -1,3 +1,15 @@
+---
+title: Speaking Experiences
+description: ""
+social:
+  cards_layout_options:
+    background_color: "#000000"
+    color: "#ffffff"
+    title: "Speaking Experiences"
+    description: "AI, ML & Technology Talks"
+    icon: docs/assets/sentick_cream_logo.svg
+---
+
 # Speaking Experiences
 
 I'm passionate about sharing knowledge and inspiring others through public speaking and private workshops. Here are some of my recent speaking engagements where I've discussed AI, machine learning, and technology trends.

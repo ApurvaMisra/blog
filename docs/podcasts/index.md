@@ -1,3 +1,13 @@
+---
+title: Podcasts
+social:
+  cards_layout_options:
+    background_color: "#000000"
+    color: "#ffffff"
+    title: "Podcasts"
+    description: "The Practical Prompt - AI for Business"
+---
+
 # Podcasts
 
 Welcome to my podcast collection! I started this show to provide a segue for business owners to learn about AI. We bring together entrepreneurs and professionals who are using AI or planning to sharing real-world stories across different domains. Here you’ll find conversations packed with insights on AI, entrepreneurship, and practical tech solutions for growing your business.
