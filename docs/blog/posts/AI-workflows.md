@@ -76,6 +76,6 @@ The businesses that embrace AI workflows now will have a significant competitive
 
     **I help businesses implement AI workflows that actually work.** From simple automation to complex multi-step processes, I can help you identify opportunities and build solutions that save time and increase efficiency.
 
-    **Want to explore what's possible for your business?** [Book a consultation](https://calendly.com/apurva-sentick/60min) and let's discuss how AI workflows can transform your operations.
+    **Want to explore what's possible for your business?** [Book a consultation](https://calendar.app.google/Fp2CxLodVBhGARfG6) and let's discuss how AI workflows can transform your operations.
 
     **Prefer to stay updated?** [Sign up for my newsletter](https://www.sentick.com/signup) where I share real-world AI application examples and implementation strategies.
