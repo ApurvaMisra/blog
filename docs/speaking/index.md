@@ -12,7 +12,7 @@ social:
 
 # Speaking Experiences
 
-I'm passionate about sharing knowledge and inspiring others through public speaking and private workshops. Here are some of my recent speaking engagements where I've discussed AI, machine learning, and technology trends.
+I'm passionate about sharing knowledge and inspiring others through public speaking and private workshops. Here are some of my recent speaking engagements/workshops where I've discussed AI, machine learning, and technology trends.
 
 Topics I speak about:
 
@@ -106,7 +106,20 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 
 <div class="speaking-grid">
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/sydney1.jpg,images/sydney2.jpg,images/sydney3.jpg, ,images/sydney4.jpg">
+  <div class="talk-image-container" data-images="images/mlcon_2025_1.jpg,images/mlcon_2025_2.jpg, images/mlcon_2025_3.jpg, images/mlcon_2025_4.jpg, images/mlcon_2025_5.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Workshop: From RAG to Agentic Deep Research: Building Iterative AI Search Systems for Comprehensive Report Generation</div>
+    <div class="talk-event">MLCon - New York</div>
+        <a href="https://mlconference.ai/generative-ai-content/agentic-ai-workshop-deep-research-llms/" class="talk-link" target="_blank">Event Details</a>
+    <div style="font-size: 0.75rem; color: var(--md-default-fg-color--light); margin-bottom: 0.5rem;">
+    </div>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/sydney1.jpg,images/sydney2.jpg,images/sydney3.jpg,images/sydney4.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
