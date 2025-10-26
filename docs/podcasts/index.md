@@ -229,6 +229,29 @@ Welcome to my podcast collection! I started this show to provide a segue for bus
 
 ## Recent Episodes
 
+### Constrained Agents & Measurable Loops: What AI Consultants Can Ship Today
+
+<div class="episode-container">
+  <div class="video-wrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-sY9IyHdtko" title="Constrained Agents & Measurable Loops: What AI Consultants Can Ship Today" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <div class="episode-description">
+    Marcus Gaughan owner of Minds on Fire joined us and we covered the systems he uses to run an AI/automation consulting practice across retail, insurance, fintech, and healthcare. Practical takeaways for consultants: Translate asks to systems: Map lead → conversion → fulfillment → retention, then pick levers. Data triage first: Pull from POS/payment exports/inboxes; standardize as you go. Narrow loops, human review: Chat-assisted intake, event-driven email, dashboards; humans approve money-moving/outbound promises. Constrain agents: Keep LLM actions inside the product's API surface; require confirmations and action summaries. Measure what matters: Revenue/conversions first, then dwell/click paths and AOV; iterate on what moves those.
+  </div>
+  <div class="episode-links">
+    <a href="https://podcasts.apple.com/us/podcast/constrained-agents-measurable-loops-what-ai-consultants/id1830322880?i=1000733485141" class="episode-link apple-link" target="_blank">
+      <img src="images/Apple-Podcast-icon-Logo-Vector.svg--272x300.png" alt="Apple Podcasts" class="platform-icon">
+      Apple Podcasts
+    </a>
+    <a href="https://open.spotify.com/episode/48vuxTsPtHmexng3vOvtZP?si=kiRkF8oMSoW9DliWhfJW9w" class="episode-link spotify-link" target="_blank">
+      <svg class="platform-icon" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.42 1.56-.299.421-1.02.599-1.559.3z"/>
+      </svg>
+      Spotify
+    </a>
+  </div>
+</div>
+
 ### From Crypto Chaos to AI Productivity: Building, Regulating, and Shipping with AI
 
 <div class="episode-container">
