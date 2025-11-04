@@ -106,6 +106,17 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 
 <div class="speaking-grid">
 <div class="talk-card">
+  <div class="talk-image-container" data-images="https://img.youtube.com/vi/S35JSyee5zo/maxresdefault.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">"This is why you need a RAG system" - Apurva Misra - Ep 63</div>
+    <div class="talk-event">Tool Use - AI Conversations</div>
+    <a href="https://youtu.be/S35JSyee5zo?si=lLS6WFnQtziIRij3" class="talk-link" target="_blank">Watch on YouTube</a>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-image-container" data-images="images/mlcon_2025_1.jpg,images/mlcon_2025_2.jpg, images/mlcon_2025_3.jpg, images/mlcon_2025_4.jpg, images/mlcon_2025_5.jpg">
     <div class="image-indicators"></div>
   </div>
