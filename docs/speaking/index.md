@@ -106,6 +106,27 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 
 <div class="speaking-grid">
 <div class="talk-card">
+  <div class="talk-image-container" data-images="images/claude_code_1.png,images/claude_code_2.png,images/claude_code_3.jpg,images/claude_code_4.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">AI Made Simple: Automating Work with Claude Code</div>
+    <div class="talk-event">Workshop</div>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="https://img.youtube.com/vi/koBz5bIwHLw/maxresdefault.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Can I build my OWN Deep Research AI Agent in 30 minutes?</div>
+    <div class="talk-event">Interview Kickstart - Agentic AI</div>
+    <a href="https://youtu.be/koBz5bIwHLw?si=8LLZRV79zbRhGFQZ" class="talk-link" target="_blank">Watch on YouTube</a>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-image-container" data-images="https://img.youtube.com/vi/S35JSyee5zo/maxresdefault.jpg">
     <div class="image-indicators"></div>
   </div>
