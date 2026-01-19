@@ -106,6 +106,16 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 
 <div class="speaking-grid">
 <div class="talk-card">
+  <div class="talk-image-container" data-images="images/cpabc_3.jpg,images/cpabc_2.jpg,images/cpabc_1.png,images/cpabc_4.png">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Finance Meets AI: Explore Automation, Vibe Coding, Intelligent Agent Building & Prompt Engineering</div>
+    <div class="talk-event">Workshop for Accountants</div>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-image-container" data-images="images/claude_code_1.png,images/claude_code_2.png,images/claude_code_3.jpg,images/claude_code_4.jpg">
     <div class="image-indicators"></div>
   </div>
