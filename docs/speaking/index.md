@@ -25,6 +25,9 @@ Topics I speak about:
 
 If you're organizing an event and looking for a speaker, feel free to [reach out](mailto:apurva@sentick.com)!
 
+<link rel="preload" as="image" href="images/cpabc_3.jpg">
+<link rel="preload" as="image" href="images/claude_code_1.png">
+
 <style>
 .speaking-grid {
   display: grid;
@@ -423,6 +426,11 @@ If you're organizing an event and looking for a speaker, feel free to [reach out
 
 <script>
 function initializeSpeakingPageImages() {
+    // Cleanup previous observer if it exists
+    if (window.speakingPageObserver) {
+        window.speakingPageObserver.disconnect();
+    }
+
     function applySmartPositioning(img) {
         const aspectRatio = img.naturalWidth / img.naturalHeight;
         if (aspectRatio < 1) {
@@ -433,11 +441,29 @@ function initializeSpeakingPageImages() {
             img.style.objectPosition = 'center 35%';
         }
     }
-    
+
     // Initialize image sliders for cards with multiple images
     const imageContainers = document.querySelectorAll('.talk-image-container[data-images]');
-    
-    imageContainers.forEach(container => {
+
+    // Use Intersection Observer for lazy loading
+    const observerOptions = {
+        root: null,
+        rootMargin: '200px', // Start loading 200px before the element is visible
+        threshold: 0
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting && !entry.target.dataset.initialized) {
+                loadImageForContainer(entry.target);
+            }
+        });
+    }, observerOptions);
+
+    // Store observer globally for cleanup
+    window.speakingPageObserver = observer;
+
+    function loadImageForContainer(container) {
         // If the container has already been processed, skip it
         if (container.dataset.initialized) {
             return;
@@ -446,35 +472,40 @@ function initializeSpeakingPageImages() {
 
         const imagesData = container.getAttribute('data-images');
         if (!imagesData) return;
-        
+
         const imageUrls = imagesData.split(',').map(url => url.trim());
         if (imageUrls.length === 0) return;
-        
+
         let currentImageIndex = 0;
-        
-        // Create image element
+
+        // Create image element with optimized attributes
         const img = document.createElement('img');
         img.alt = 'Speaking Event';
         img.style.width = '100%';
-        img.style.height = '400px'; /* Match the CSS container height */
+        img.style.height = '400px';
         img.style.objectFit = 'cover';
-        img.style.objectPosition = 'center 35%'; // Show person from head to upper torso
-        img.style.backgroundColor = 'var(--md-default-bg-color)'; // Placeholder background
-        
+        img.style.objectPosition = 'center 35%';
+        img.style.backgroundColor = 'var(--md-default-bg-color)';
+        img.decoding = 'async'; // Faster rendering
+
+        // Determine if this is one of the first cards (eager load)
+        const containerIndex = Array.from(imageContainers).indexOf(container);
+        img.loading = containerIndex < 3 ? 'eager' : 'lazy';
+
         // Insert image first, then set src to avoid flash
         container.insertBefore(img, container.firstChild);
-        
+
         // Set src and load image
         img.src = imageUrls[0];
-        
+
         // Apply smart positioning when image loads
         img.onload = function() {
             applySmartPositioning(this);
         };
-        
+
         // Create indicators and auto-slide functionality
         const indicatorsContainer = container.querySelector('.image-indicators');
-        
+
         if (imageUrls.length > 1) {
             // Create indicator dots for multiple images
             imageUrls.forEach((_, index) => {
@@ -484,9 +515,14 @@ function initializeSpeakingPageImages() {
                 dot.addEventListener('click', () => showImage(index));
                 indicatorsContainer.appendChild(dot);
             });
-            
+
+            // Clear any existing interval and create new one
+            if (container.slideInterval) {
+                clearInterval(container.slideInterval);
+            }
+
             // Auto-slide every 3 seconds for multiple images
-            setInterval(() => {
+            container.slideInterval = setInterval(() => {
                 currentImageIndex = (currentImageIndex + 1) % imageUrls.length;
                 showImage(currentImageIndex);
             }, 3000);
@@ -494,12 +530,12 @@ function initializeSpeakingPageImages() {
             // Hide indicators container for single images
             indicatorsContainer.style.display = 'none';
         }
-        
+
         // Function to show specific image
         function showImage(index) {
             currentImageIndex = index;
             img.src = imageUrls[index];
-            
+
             // Update indicators (only if multiple images)
             if (imageUrls.length > 1) {
                 const dots = indicatorsContainer.querySelectorAll('.indicator-dot');
@@ -507,6 +543,15 @@ function initializeSpeakingPageImages() {
                     dot.classList.toggle('active', i === index);
                 });
             }
+        }
+    }
+
+    // Load first 3 cards immediately, observe the rest
+    imageContainers.forEach((container, index) => {
+        if (index < 3) {
+            loadImageForContainer(container);
+        } else {
+            observer.observe(container);
         }
     });
 }
