@@ -14,16 +14,54 @@ social:
 
 I'm passionate about sharing knowledge and inspiring others through public speaking and private workshops. Here are some of my recent speaking engagements/workshops where I've discussed AI, machine learning, and technology trends.
 
-Topics I speak about:
+<details>
+<summary><strong>Topics I speak about</strong></summary>
 
-- Generative AI and LLMs in Production
-- RAG Systems and Multi-Agent AI
-- AI Product Development
-- Machine Learning Engineering
-- AI/UX Integration
-- MLOps and Data Engineering
+AI Productivity for Everyday Work
 
-If you're organizing an event and looking for a speaker, feel free to [reach out](mailto:apurva@sentick.com)!
+- Prompt & Context Engineering for reliable AI outputs
+
+- Using tools like Claude, ChatGPT, Copilot, and Cursor effectively
+
+- Workflow automation with AI across roles
+
+- Reducing manual work and improving day-to-day productivity
+
+- AI for Decision-Making, Data & Reporting
+
+- AI for data analysis and business intelligence
+
+- Turning spreadsheets, documents, and exports into insights
+
+- AI for internal reporting and summaries
+
+- Evaluating and choosing the right AI tools for your organization
+
+- AI for Customer Experience, Marketing & Support
+
+- AI-powered marketing and content workflows
+
+- AI for customer service and support teams
+
+- Automating responses, summaries, and knowledge access
+
+- Improving customer and internal communication with AI
+
+- Generative AI and LLMs in production
+
+- RAG systems and multi-agent patterns
+
+- AI product development and evaluation
+
+- MLOps, data engineering, and AI/UX integration
+
+</details>
+
+Planning an event or workshop? I deliver talks and hands-on workshops that transform complex AI concepts into practical, actionable insights designed for audiences of all technical levels.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://calendar.app.google/57AKEzGz8E2TTbfG8" class="talk-link" target="_blank" style="font-size: 1rem; padding: 0.75rem 1.5rem; display: inline-block;">📅 Book a Call</a>
+</div>
 
 <link rel="preload" as="image" href="images/cpabc_3.jpg">
 <link rel="preload" as="image" href="images/claude_code_1.png">
