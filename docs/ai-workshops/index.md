@@ -119,14 +119,17 @@ hide:
 
 </style>
 
+<link rel="preconnect" href="https://www.youtube-nocookie.com">
+<link rel="preconnect" href="https://i.ytimg.com">
+
 <div class="workshop-hero">
   <h1>Make your team AI-enabled in weeks, not months</h1>
   <p class="subhead">A personalized, hands-on workshop for teams who want practical AI workflows (marketing, ops, product, engineering) tailored to your tools and data.</p>
 </div>
 
 <div class="workshop-video">
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/FUQism79SFc?autoplay=1&mute=1&loop=1&playlist=FUQism79SFc" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <div class="video-wrapper" style="background:url('https://i.ytimg.com/vi/FUQism79SFc/hqdefault.jpg') center/cover no-repeat #000">
+    <iframe src="https://www.youtube-nocookie.com/embed/FUQism79SFc?autoplay=1&mute=1&loop=1&playlist=FUQism79SFc" allow="autoplay; encrypted-media" allowfullscreen loading="eager"></iframe>
   </div>
 </div>
 
@@ -146,5 +149,5 @@ hide:
 </div>
 
 <div class="workshop-cta">
-  <a href="https://calendar.app.google/Fp2CxLodVBhGARfG6" class="cta-primary" target="_blank">Book a 15-minute setup call</a>
+  <a href="https://calendar.app.google/JDSDWs4V1mmBdx3u9" class="cta-primary" target="_blank">Book a 25-minute setup call</a>
 </div>
