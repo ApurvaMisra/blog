@@ -8,7 +8,7 @@ hide:
 <style>
 .workshop-hero {
   text-align: center;
-  padding: 3rem 1rem 2rem;
+  padding: 0 1rem 0;
   max-width: 720px;
   margin: 0 auto;
 }
@@ -17,6 +17,7 @@ hide:
   font-size: 2.4rem;
   font-weight: 800;
   line-height: 1.15;
+  margin-top: 0;
   margin-bottom: 1rem;
   color: var(--md-primary-fg-color);
 }
@@ -25,7 +26,7 @@ hide:
   font-size: 1.15rem;
   line-height: 1.6;
   color: var(--md-default-fg-color--light);
-  margin-bottom: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 .workshop-outcomes {
@@ -59,7 +60,7 @@ hide:
 
 .workshop-cta {
   text-align: center;
-  margin: 2.5rem 0 1.5rem;
+  margin: 0 0 1.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -123,8 +124,12 @@ hide:
 <link rel="preconnect" href="https://i.ytimg.com">
 
 <div class="workshop-hero">
-  <h1>Make your team AI-enabled in weeks, not months</h1>
-  <p class="subhead">A personalized, hands-on workshop for teams who want practical AI workflows (marketing, ops, product, engineering) tailored to your tools and data.</p>
+  <h1>Get your team using AI weekly, not "someday."</h1>
+  <p class="subhead">Bring your use cases. Leave with working workflows, templates, and a rollout plan your team will actually follow.</p>
+</div>
+
+<div class="workshop-cta">
+  <a href="https://calendar.app.google/JDSDWs4V1mmBdx3u9" class="cta-primary" target="_blank">Book a 25-minute setup call</a>
 </div>
 
 <div class="workshop-video">
@@ -146,8 +151,4 @@ hide:
     <span class="outcome-icon">🗺️</span>
     <span class="outcome-text">Leave with a rollout plan: templates, prompts, and next steps</span>
   </div>
-</div>
-
-<div class="workshop-cta">
-  <a href="https://calendar.app.google/JDSDWs4V1mmBdx3u9" class="cta-primary" target="_blank">Book a 25-minute setup call</a>
 </div>
