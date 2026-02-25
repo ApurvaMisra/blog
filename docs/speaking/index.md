@@ -167,6 +167,16 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
+  <div class="talk-image-container" data-images="images/enginehire_1.jpg,images/enginehire_2.jpg,images/enginehire_3.jpg,images/enginehire_4.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">AI Applications & Tool Use for Teams</div>
+    <div class="talk-event">Enginehire Team Retreat - India</div>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-image-container" data-images="https://img.youtube.com/vi/koBz5bIwHLw/maxresdefault.jpg">
     <div class="image-indicators"></div>
   </div>
