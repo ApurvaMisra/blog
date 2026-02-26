@@ -147,6 +147,16 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 
 <div class="speaking-grid">
 <div class="talk-card">
+  <div class="talk-image-container" data-images="images/oreilly_26Feb2026.jpeg" data-position="top">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">How to Tell If Your Agent Used the Right Stuff</div>
+    <div class="talk-event">O'Reilly</div>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-image-container" data-images="images/cpabc_3.jpg,images/cpabc_2.jpg,images/cpabc_1.png,images/cpabc_4.png">
     <div class="image-indicators"></div>
   </div>
@@ -546,9 +556,14 @@ function initializeSpeakingPageImages() {
         // Set src and load image
         img.src = imageUrls[0];
 
-        // Apply smart positioning when image loads
+        // Apply positioning when image loads
         img.onload = function() {
-            applySmartPositioning(this);
+            const customPosition = container.getAttribute('data-position');
+            if (customPosition) {
+                this.style.objectPosition = customPosition;
+            } else {
+                applySmartPositioning(this);
+            }
         };
 
         // Create indicators and auto-slide functionality
