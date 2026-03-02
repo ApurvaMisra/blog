@@ -64,7 +64,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <link rel="preload" as="image" href="images/cpabc_3.jpg">
-<link rel="preload" as="image" href="images/claude_code_1.png">
+<link rel="preload" as="image" href="images/claude_code_1.jpg">
 
 <style>
 .speaking-grid {
@@ -157,7 +157,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/cpabc_3.jpg,images/cpabc_2.jpg,images/cpabc_1.png,images/cpabc_4.png">
+  <div class="talk-image-container" data-images="images/cpabc_3.jpg,images/cpabc_2.jpg,images/cpabc_1.jpg,images/cpabc_4.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -167,7 +167,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/claude_code_1.png,images/claude_code_2.png,images/claude_code_3.jpg,images/claude_code_4.jpg">
+  <div class="talk-image-container" data-images="images/claude_code_1.jpg,images/claude_code_2.jpg,images/claude_code_3.jpg,images/claude_code_4.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -270,7 +270,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/screenshot_optimal_1.png,images/screenshot_optimal.png">
+  <div class="talk-image-container" data-images="images/screenshot_optimal_1.jpg,images/screenshot_optimal.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -281,7 +281,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/ashaya_podcast_2024_1.png,images/ashaya_podcast_2024_2.png">
+  <div class="talk-image-container" data-images="images/ashaya_podcast_2024_1.jpg,images/ashaya_podcast_2024_2.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -292,7 +292,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/product_bulb_2024.png">
+  <div class="talk-image-container" data-images="images/product_bulb_2024.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -303,7 +303,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/datatalks_2024.png">
+  <div class="talk-image-container" data-images="images/datatalks_2024.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -314,7 +314,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/gdg_burnaby_2024_1.png,images/gdg_burnaby_2024_2.png,images/gdg_burnaby_2024_3.png">
+  <div class="talk-image-container" data-images="images/gdg_burnaby_2024_1.jpg,images/gdg_burnaby_2024_2.jpg,images/gdg_burnaby_2024_3.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -325,7 +325,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/aicamp_2024_1.jpg,images/aicamp_2024_2.png,images/aicamp_2024_3.png,images/aicamp_2024_4.png">
+  <div class="talk-image-container" data-images="images/aicamp_2024_1.jpg,images/aicamp_2024_2.jpg,images/aicamp_2024_3.jpg,images/aicamp_2024_4.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -336,7 +336,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/finovate2024_1.JPG,images/finovate2024_2.png,images/finovate2024_3.JPG">
+  <div class="talk-image-container" data-images="images/finovate2024_1.JPG,images/finovate2024_2.jpg,images/finovate2024_3.JPG">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -347,7 +347,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/gdg_surrey_2024_1.png,images/gdg_surrey_2024_2.png,images/gdg_surrey_2024_3.png,images/gdg_surrey_2024_4.png">
+  <div class="talk-image-container" data-images="images/gdg_surrey_2024_1.jpg,images/gdg_surrey_2024_2.jpg,images/gdg_surrey_2024_3.jpg,images/gdg_surrey_2024_4.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -391,7 +391,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/sphereit_mar1.png,images/sphereit_mar2.png">
+  <div class="talk-image-container" data-images="images/sphereit_mar1.jpg,images/sphereit_mar2.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -424,7 +424,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/nov_2023_1.png,images/nov2023.png">
+  <div class="talk-image-container" data-images="images/nov_2023_1.jpg,images/nov2023.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -435,7 +435,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </div>
 
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/oct2023.png">
+  <div class="talk-image-container" data-images="images/oct2023.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
@@ -506,7 +506,7 @@ function initializeSpeakingPageImages() {
     // Use Intersection Observer for lazy loading
     const observerOptions = {
         root: null,
-        rootMargin: '200px', // Start loading 200px before the element is visible
+        rootMargin: '600px', // Start loading 600px before the element is visible
         threshold: 0
     };
 
@@ -536,6 +536,13 @@ function initializeSpeakingPageImages() {
 
         let currentImageIndex = 0;
 
+        // Preload all images for this card into browser cache
+        const preloadedImages = imageUrls.map(url => {
+            const preImg = new Image();
+            preImg.src = url;
+            return preImg;
+        });
+
         // Create image element with optimized attributes
         const img = document.createElement('img');
         img.alt = 'Speaking Event';
@@ -544,11 +551,11 @@ function initializeSpeakingPageImages() {
         img.style.objectFit = 'cover';
         img.style.objectPosition = 'center 35%';
         img.style.backgroundColor = 'var(--md-default-bg-color)';
-        img.decoding = 'async'; // Faster rendering
+        img.decoding = 'async';
 
         // Determine if this is one of the first cards (eager load)
         const containerIndex = Array.from(imageContainers).indexOf(container);
-        img.loading = containerIndex < 3 ? 'eager' : 'lazy';
+        img.loading = containerIndex < 6 ? 'eager' : 'lazy';
 
         // Insert image first, then set src to avoid flash
         container.insertBefore(img, container.firstChild);
@@ -609,9 +616,9 @@ function initializeSpeakingPageImages() {
         }
     }
 
-    // Load first 3 cards immediately, observe the rest
+    // Load first 6 cards immediately, observe the rest
     imageContainers.forEach((container, index) => {
-        if (index < 3) {
+        if (index < 6) {
             loadImageForContainer(container);
         } else {
             observer.observe(container);
