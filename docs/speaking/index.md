@@ -63,8 +63,8 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
   <a href="https://calendar.app.google/57AKEzGz8E2TTbfG8" class="talk-link" target="_blank" style="font-size: 1rem; padding: 0.75rem 1.5rem; display: inline-block;">📅 Book a Call</a>
 </div>
 
-<link rel="preload" as="image" href="images/cpabc_3.jpg">
-<link rel="preload" as="image" href="images/claude_code_1.jpg">
+<link rel="preload" as="image" href="images/GIDS_agents_1.jpg">
+<link rel="preload" as="image" href="images/GIDS_eval_2026_1.jpg">
 
 <style>
 .speaking-grid {
@@ -146,6 +146,39 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </style>
 
 <div class="speaking-grid">
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/GIDS_agents_1.jpg,images/GIDS_agents_2.jpg,images/GIDS_agents_3.jpg,images/GIDS_agents_4.jpg,images/GIDS_agents_5.jpg,images/GIDS_agents_6.jpg,images/GIDS_agents_7.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Building LLM-Powered Agents with Real-Time Reasoning Loops</div>
+    <div class="talk-event">GIDS India 2026 - Bangalore</div>
+    <a href="https://developersummit.com/session/building-llm-powered-agents-with-real-time-reasoning-loops" class="talk-link" target="_blank">Event Details</a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/GIDS_eval_2026_1.jpg,images/GIDS_eval_2026_2.jpg,images/GIDS_eval_2026_3.jpg,images/GIDS_eval_2026_4.jpg,images/GIDS_eval_2026_5.jpg,images/GIDS_eval_2026_6.jpg,images/GIDS_eval_2026_7.jpg,images/GIDS_eval_2026_8.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">It Works in the Demo. Will It Work in Production? Evaluating and Debugging AI Agents</div>
+    <div class="talk-event">GIDS India 2026 - Bangalore</div>
+    <a href="https://developersummit.com/session/it-works-in-the-demo-will-it-work-in-production-evaluating-and-debugging-ai-agents" class="talk-link" target="_blank">Event Details</a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/IBM_1_2026.jpg,images/IBM_2_2026.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Building AI Agents: What You Need to Know Before You Put Them to Work</div>
+    <div class="talk-event">Polyglot Meetup - IBM Bangalore</div>
+    <a href="https://www.meetup.com/polyglot-languages-runtimes-java-jvm-nodejs-swift/events/314073192/" class="talk-link" target="_blank">Event Details</a>
+  </div>
+</div>
+
 <div class="talk-card">
   <div class="talk-image-container" data-images="images/oreilly_26Feb2026.jpeg" data-position="top">
     <div class="image-indicators"></div>
