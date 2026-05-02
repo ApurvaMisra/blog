@@ -32,7 +32,7 @@ I’m an Electronics & Communications engineer turned Machine Learning engineer 
 
 I earned my Master’s at the University of Waterloo, where my research focused on cognitive driver distraction detection. This is detecting distraction from what a person is thinking, not just where they are looking. My work has been published in IEEE Access and has 100+ citations.
 
-Since then, I’ve built ML and NLP systems across domains including healthcare, insurance, recommendations, forecasting, and conversational AI. I also love the education side of AI and help leaders and teams understand what’s genuinely useful and how to apply it through 40+ talks, workshops, and training sessions, with my Youtube channel at 10000+ views.
+Since then, I’ve built ML and NLP systems across domains including healthcare, insurance, recommendations, forecasting, and conversational AI. I also love the education side of AI and help leaders and teams understand what’s genuinely useful and how to apply it through 50+ talks, workshops, and training sessions, with my Youtube channel at 10000+ views.
 
 ---
 
