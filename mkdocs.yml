@@ -49,6 +49,7 @@ plugins:
         color: "#ebcfa6"
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:apurva@sentick.com
@@ -62,6 +63,9 @@ extra:
     - icon: fontawesome/solid/podcast
       link: https://podcasts.apple.com/us/podcast/the-practical-prompt/id1830322880
       name: Podcast
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@misraapurva
+      name: YouTube
 
 markdown_extensions:
   - pymdownx.highlight:
