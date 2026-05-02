@@ -14,10 +14,19 @@ theme:
   logo: assets/sentick_cream_logo.svg
   favicon: assets/favicon.svg
   palette:
-    scheme: default
-    primary: "#da8383"
-    # primary: "#dcb3f8"
-    accent: "#2e990e"
+    - scheme: default
+      primary: "#da8383"
+      # primary: "#dcb3f8"
+      accent: "#2e990e"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: "#da8383"
+      accent: "#2e990e"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   font:
     text: Inter
     code: Roboto Mono
