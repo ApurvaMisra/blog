@@ -147,7 +147,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 
 <div class="speaking-grid">
 <div class="talk-card">
-  <div class="talk-image-container" data-images="images/mlcon_london_session_2026_1.jpg,images/mlcon_london_session_2026_2.jpg,images/mlcon_london_session_2026_3.jpg,images/mlcon_london_session_2026_4.jpg,images/mlcon_london_session_2026_5.jpg">
+  <div class="talk-image-container" data-images="images/mlcon_london_session_2026_1.jpg,images/mlcon_london_session_2026_2.jpg,images/mlcon_london_session_2026_3.jpg,images/mlcon_london_session_2026_4.jpg">
     <div class="image-indicators"></div>
   </div>
   <div class="talk-content">
