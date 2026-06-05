@@ -147,6 +147,26 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 
 <div class="speaking-grid">
 <div class="talk-card">
+  <div class="talk-image-container" data-images="images/sandiego_2026_session_1.jpg,images/sandiego_2026_session_2.jpg,images/sandiego_2026_session_3.jpg,images/sandiego_2026_session_4.jpg,images/sandiego_2026_session_5.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">AI as a Cog in the Machine</div>
+    <div class="talk-event">MLCon - San Diego</div>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/sandiego_2026_workshop_1.jpg,images/sandiego_2026_workshop_2.jpg,images/sandiego_2026_workshop_3.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Workshop: You’ve built an Agent, now what? A Practical Guide to Evaluating, Debugging &amp; Improving AI Agents</div>
+    <div class="talk-event">MLCon - San Diego</div>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-image-container" data-images="images/mlcon_london_session_2026_1.jpg,images/mlcon_london_session_2026_2.jpg,images/mlcon_london_session_2026_3.jpg,images/mlcon_london_session_2026_4.jpg">
     <div class="image-indicators"></div>
   </div>
