@@ -147,6 +147,16 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 
 <div class="speaking-grid">
 <div class="talk-card">
+  <div class="talk-image-container" data-images="images/berlin_buzzwords_2026_1.jpg,images/berlin_buzzwords_2026_2.jpg,images/berlin_buzzwords_2026_4.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">How to Tell If Your Agent Used the Right Stuff</div>
+    <div class="talk-event">Berlin Buzzwords - Berlin</div>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-image-container" data-images="images/sandiego_2026_session_1.jpg,images/sandiego_2026_session_2.jpg,images/sandiego_2026_session_3.jpg,images/sandiego_2026_session_4.jpg">
     <div class="image-indicators"></div>
   </div>
