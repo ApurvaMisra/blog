@@ -153,6 +153,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
   <div class="talk-content">
     <div class="talk-title">How to Tell If Your Agent Used the Right Stuff</div>
     <div class="talk-event">Berlin Buzzwords - Berlin</div>
+    <a href="https://youtu.be/ysnM7Y4VgOE" class="talk-link" target="_blank">Watch Talk</a>
   </div>
 </div>
 
