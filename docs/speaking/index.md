@@ -204,7 +204,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
   <div class="talk-content">
     <div class="talk-title">Building LLM-Powered Agents with Real-Time Reasoning Loops</div>
     <div class="talk-event">GIDS India 2026 - Bangalore</div>
-    <a href="https://developersummit.com/session/building-llm-powered-agents-with-real-time-reasoning-loops" class="talk-link" target="_blank">Event Details</a>
+    <a href="https://youtu.be/h8PTMtsiV4A?si=7f1tQWzCeF_CUb07" class="talk-link" target="_blank">Watch Talk</a>
   </div>
 </div>
 
@@ -215,7 +215,7 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
   <div class="talk-content">
     <div class="talk-title">It Works in the Demo. Will It Work in Production? Evaluating and Debugging AI Agents</div>
     <div class="talk-event">GIDS India 2026 - Bangalore</div>
-    <a href="https://developersummit.com/session/it-works-in-the-demo-will-it-work-in-production-evaluating-and-debugging-ai-agents" class="talk-link" target="_blank">Event Details</a>
+    <a href="https://youtu.be/gDSBtjLYeWY?si=km51eDvsqOcKVCSY" class="talk-link" target="_blank">Watch Talk</a>
   </div>
 </div>
 
