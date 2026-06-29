@@ -63,8 +63,8 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
   <a href="https://calendar.app.google/57AKEzGz8E2TTbfG8" class="talk-link" target="_blank" style="font-size: 1rem; padding: 0.75rem 1.5rem; display: inline-block;">📅 Book a Call</a>
 </div>
 
-<link rel="preload" as="image" href="images/GIDS_agents_1.jpg">
-<link rel="preload" as="image" href="images/GIDS_eval_2026_1.jpg">
+<link rel="preload" as="image" href="images/MLCon_Munich_2026_1.png">
+<link rel="preload" as="image" href="images/Vibekode_Munich_2026_1.jpg">
 
 <style>
 .speaking-grid {
@@ -146,6 +146,28 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 </style>
 
 <div class="speaking-grid">
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/MLCon_Munich_2026_1.png,images/MLCon_Munich_2026_2.jpg,images/MLCon_Munich_2026_3.jpg,images/MLCon_Munich_2026_4.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Workshop: Tooling &amp; Patterns for Reliable AI-Powered Applications</div>
+    <div class="talk-event">MLCon - Munich</div>
+    <a href="https://mlconference.ai/munich/program-munich/" class="talk-link" target="_blank">Event Details</a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/Vibekode_Munich_2026_1.jpg,images/Vibekode_Munich_2026_2.jpg">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">From Coders to Conductors: Thriving in the Age of AI-Augmented Engineering</div>
+    <div class="talk-event">VibeKode - Munich</div>
+    <a href="https://vibekode.it/munich/program-munich/" class="talk-link" target="_blank">Event Details</a>
+  </div>
+</div>
+
 <div class="talk-card">
   <div class="talk-image-container" data-images="images/berlin_buzzwords_2026_1.jpg,images/berlin_buzzwords_2026_2.jpg,images/berlin_buzzwords_2026_4.jpg">
     <div class="image-indicators"></div>
