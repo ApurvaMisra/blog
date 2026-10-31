@@ -59,10 +59,6 @@ AI Productivity for Everyday Work
 
 Planning an event or workshop? I deliver talks and hands-on workshops that transform complex AI concepts into practical, actionable insights designed for audiences of all technical levels.
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://calendar.app.google/57AKEzGz8E2TTbfG8" class="talk-link" target="_blank" style="font-size: 1rem; padding: 0.75rem 1.5rem; display: inline-block;">📅 Book a Call</a>
-</div>
-
 <link rel="preload" as="image" href="images/optimized/jax_talk_2026_2.jpg.webp">
 
 <style>
@@ -71,6 +67,10 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 2rem;
   margin: 2rem 0;
+}
+
+.course-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
 }
 
 .talk-card {
@@ -141,6 +141,36 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 
 
 </style>
+
+## O'Reilly Courses
+
+<div class="speaking-grid course-grid">
+<div class="talk-card">
+  <div class="talk-content">
+    <div class="talk-title">Creating a Personalized Assistant with Claude Code</div>
+    <div class="talk-event">O'Reilly - Live Online Course</div>
+    <a href="https://www.oreilly.com/live-events/creating-a-personalized-assistant-with-claude-code/0642572370534/0642572370527/" class="talk-link" target="_blank" rel="noopener noreferrer">Course Details</a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-content">
+    <div class="talk-title">Deploying AI Systems Safely</div>
+    <div class="talk-event">O'Reilly - Live Online Course</div>
+    <a href="https://www.oreilly.com/live-events/deploying-ai-systems-safely/0642572362607/0642572362591/" class="talk-link" target="_blank" rel="noopener noreferrer">Course Details</a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-content">
+    <div class="talk-title">Building with Jev and System One Models</div>
+    <div class="talk-event">O'Reilly - Live Online Course</div>
+    <a href="https://www.oreilly.com/live-events/building-with-jev-and-system-one-models/0642572462482/" class="talk-link" target="_blank" rel="noopener noreferrer">Course Details</a>
+  </div>
+</div>
+</div>
+
+## Talks & Workshops
 
 <div class="speaking-grid">
 <div class="talk-card">
