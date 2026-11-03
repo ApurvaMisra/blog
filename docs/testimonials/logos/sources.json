@@ -1,0 +1,33 @@
+{
+  "retrieved": "2026-11-03",
+  "logos": [
+    {
+      "organization": "O'Reilly",
+      "files": ["oreilly-red.svg", "oreilly-white.svg"],
+      "source_page": "https://www.oreilly.com/about/logos/",
+      "asset_url": "https://cdn.oreillystatic.com/images/oreilly/OReillyLogos.zip",
+      "archive_members": ["OReillyLogos/rgb/svg/OReilly_logo_rgb.svg", "OReillyLogos/rgb/svg/OReilly_logo_white_rgb.svg"]
+    },
+    {
+      "organization": "MLCon",
+      "files": ["mlcon-color.svg", "mlcon-white.svg"],
+      "source_page": "https://mlconference.ai/",
+      "asset_urls": [
+        "https://mlconference.ai/wp-content/uploads/2024/06/MLC24_Global_Website_Redesign_Logo_Header_100.svg",
+        "https://mlconference.ai/wp-content/uploads/2026/02/MLC_Logo_white_20px.svg"
+      ]
+    },
+    {
+      "organization": "WiDS",
+      "files": ["wids.png"],
+      "source_page": "https://www.widsworldwide.org/",
+      "asset_url": "https://www.widsworldwide.org/wp-content/uploads/2023/01/cropped-WiDS_logo-03-192x192.png"
+    },
+    {
+      "organization": "RenderATL",
+      "files": ["renderatl.png"],
+      "source_page": "https://www.renderatl.com/",
+      "asset_url": "https://www.renderatl.com/logo-alt.png"
+    }
+  ]
+}

@@ -14,6 +14,8 @@ social:
 
 I'm passionate about sharing knowledge and inspiring others through public speaking and private workshops. Here are some of my recent speaking engagements/workshops where I've discussed AI, machine learning, and technology trends.
 
+Read [what participants have to say](../testimonials/index.md) about my courses, talks, and workshops.
+
 <details>
 <summary><strong>Topics I speak about</strong></summary>
 
