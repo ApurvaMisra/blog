@@ -61,7 +61,7 @@ AI Productivity for Everyday Work
 
 Planning an event or workshop? I deliver talks and hands-on workshops that transform complex AI concepts into practical, actionable insights designed for audiences of all technical levels.
 
-<link rel="preload" as="image" href="images/optimized/jax_talk_2026_2.jpg.webp">
+<link rel="preload" as="image" href="images/optimized/devmio_berlin_keynote_2026_1.jpg.webp">
 
 <style>
 .speaking-grid {
@@ -175,6 +175,39 @@ Planning an event or workshop? I deliver talks and hands-on workshops that trans
 ## Talks & Workshops
 
 <div class="speaking-grid">
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/optimized/devmio_berlin_keynote_2026_1.jpg.webp,images/optimized/devmio_berlin_keynote_2026_2.jpg.webp,images/optimized/devmio_berlin_keynote_2026_3.jpg.webp,images/optimized/devmio_berlin_keynote_2026_6.jpg.webp,images/optimized/devmio_berlin_keynote_2026_8.jpg.webp,images/optimized/devmio_berlin_keynote_2026_9.jpg.webp">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Keynote: Small Models &gt; Whatever you are using</div>
+    <div class="talk-event">AI Native Week 2026 - Berlin</div>
+    <a href="https://devm.io/ai-native-week/" class="talk-link" target="_blank" rel="noopener noreferrer">Event Details</a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/optimized/devmio_berlin_talk_2026_1.jpg.webp,images/optimized/devmio_berlin_talk_2026_4.jpg.webp,images/optimized/devmio_berlin_talk_2026_5.jpg.webp,images/optimized/devmio_berlin_talk_2026_7.jpg.webp,images/optimized/devmio_berlin_talk_2026_9.jpg.webp,images/optimized/devmio_berlin_talk_2026_10.jpg.webp">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Your AI Demo Is Great. Your AI Bill Is Not.</div>
+    <div class="talk-event">AI Native Week 2026 - Berlin</div>
+    <a href="https://devm.io/ai-native-week/" class="talk-link" target="_blank" rel="noopener noreferrer">Event Details</a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-image-container" data-images="images/optimized/devmio_berlin_workshop_2026_1.jpg.webp,images/optimized/devmio_berlin_workshop_2026_2.jpg.webp,images/optimized/devmio_berlin_workshop_2026_3.jpg.webp,images/optimized/devmio_berlin_workshop_2026_4.jpg.webp,images/optimized/devmio_berlin_workshop_2026_5.jpg.webp,images/optimized/devmio_berlin_workshop_2026_7.jpg.webp,images/optimized/devmio_berlin_workshop_2026_8.jpg.webp">
+    <div class="image-indicators"></div>
+  </div>
+  <div class="talk-content">
+    <div class="talk-title">Workshop: Harness First: Turning LLMs into Production-Ready Agents</div>
+    <div class="talk-event">AI Native Week 2026 - Berlin</div>
+    <a href="https://devm.io/ai-native-week/" class="talk-link" target="_blank" rel="noopener noreferrer">Event Details</a>
+  </div>
+</div>
+
 <div class="talk-card">
   <div class="talk-image-container" data-images="images/optimized/jax_talk_2026_2.jpg.webp,images/optimized/jax_talk_2026_3.jpg.webp,images/optimized/jax_talk_2026_4.jpg.webp,images/optimized/jax_talk_2026_5.jpg.webp,images/optimized/jax_talk_2026_6.jpg.webp">
     <div class="image-indicators"></div>
